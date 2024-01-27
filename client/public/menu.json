@@ -1,0 +1,362 @@
+[
+  {
+    "_id": "642c155b2c4774f05c36eeaa",
+    "name": "Chapli Kebab",
+    "recipe": "Pan-fried minced meat patties seasoned with aromatic spices.",
+    "image": "https://www.dipitt.com/wp-content/uploads/2021/07/Chapali-Kabab-Banner-1024x672.jpg",
+    "category": "specialty",
+    "price": 8.99
+  },
+  {
+    "_id": "642c155b2c4774f05c36eead",
+    "name": "Mutton Rezala",
+    "recipe": "Mutton cooked in a rich and creamy white curry with aromatic spices.",
+    "image": "https://www.archanaskitchen.com/images/archanaskitchen/1-Author/shaheen_ali/Mutton_Rezala_.jpg",
+    "category": "lunch",
+    "price": 18.5
+  },
+  {
+    "_id": "642c155b2c4774f05c36eeaf",
+    "name": "Doi Maach",
+    "recipe": "Fish curry cooked with yogurt, mustard, and spices.",
+    "image": "https://www.playfulcooking.com/wp-content/uploads/2021/07/Doi-maach-02.jpg",
+    "category": "lunch",
+    "price": 16.99
+  },
+  {
+    "_id": "642c155b2c4774f05c36eeb0",
+    "name": "Beguni",
+    "recipe": "Deep-fried eggplant fritters, a popular Bengali snack.",
+    "image": "https://maayeka.com/wp-content/uploads/2019/09/BEGUNI-baigan-pakodi-fritters-1.jpg.webp",
+    "category": "appetizer",
+    "price": 7.5
+  },
+  {
+    "_id": "642c155b2c4774f05c36eeb1",
+    "name": "Shorshe Bhapa Chingri",
+    "recipe": "Mustard-marinated prawns steamed to perfection.",
+    "image": "https://pikturenama.com/wp-content/uploads/2019/07/Shorshe-Bhapa-Chingri-7.jpg",
+    "category": "lunch",
+    "price": 20.99
+  },
+  {
+    "_id": "642c155b2c4774f05c36eeb2",
+    "name": "Bhapa Ilish",
+    "recipe": "Hilsa fish marinated in mustard paste and then steamed.",
+    "image": "https://www.doctorschoiceoil.com/wp-content/uploads/2022/02/dc-banner-fish.jpg",
+    "category": "lunch",
+    "price": 23.5
+  },
+  {
+    "_id": "642c155b2c4774f05c36eeb4",
+    "name": "Bengali Mishti Doi",
+    "recipe": "Sweetened yogurt, a classic Bengali dessert.",
+    "image": "https://www.babsprojects.com/wp-content/uploads/2018/04/Mishti-Doi-square-e1523890989103.jpg",
+    "category": "dessert",
+    "price": 5.99
+  },
+  {
+    "_id": "642c155b2c4774f05c36eeb5",
+    "name": "Kosha Mangsho",
+    "recipe": "Slow-cooked spicy mutton curry, a Bengali delicacy.",
+    "image": "https://kitchenofdebjani.com/wp-content/uploads/2022/09/Bengali-Kosha-Mangsho-Recipe-Debjanir-Rannaghar.jpg",
+    "category": "lunch",
+    "price": 19.5
+  },
+  {
+    "_id": "642c155b2c4774f05c36eeb6",
+    "name": "Luchi with Alur Dom",
+    "recipe": "Deep-fried Bengali bread served with spicy potato curry.",
+    "image": "https://www.vegrecipesofindia.com/wp-content/uploads/2014/01/bengali-dum-aloo-recipe-280x280.jpg",
+    "category": "breakfast",
+    "price": 9.5
+  },
+  {
+    "_id": "642c155b2c4774f05c36eeb8",
+    "name": "Aam Pora Sherbet",
+    "recipe": "Smoked raw mango drink with spices and sugar.",
+    "image": "https://c.ndtvimg.com/2023-05/5nsajp2_aam-panna_625x300_01_May_23.jpg",
+    "category": "beverage",
+    "price": 4.5
+  },
+  {
+    "_id": "642c155b2c4774f05c36eeb9",
+    "name": "Patishapta",
+    "recipe": "Thin crepes filled with jaggery and coconut, a Bengali dessert.",
+    "image": "https://images.squarespace-cdn.com/content/v1/5ea5f3913b0ccf06d0ec2563/1591996033317-ERJY9N6VUNQQ4KOED5FQ/Patishapta+%283%29.jpg",
+    "category": "dessert",
+    "price": 8.99
+  },
+  {
+    "_id": "642c155b2c4774f05c36eeab",
+    "name": "Chicken Bharta",
+    "recipe": "Shredded chicken cooked in a rich and flavorful curry sauce.",
+    "image": "https://pamelakanjilal.files.wordpress.com/2010/05/img_2328.jpg",
+    "category": "lunch",
+    "price": 14.5
+  },
+  {
+    "_id": "642c155b2c4774f05c36eebb",
+    "name": "Shutki Maach Bhaja",
+    "recipe": "Dried fish marinated and deep-fried, a unique Bengali delicacy.",
+    "image": "https://images.squarespace-cdn.com/content/v1/5ea5f3913b0ccf06d0ec2563/b4f80910-4e22-400a-8754-ff2e44a98987/Pohela+Boishakh+2021+-+The+Spice+Odyssey+%2825%29.jpg",
+    "category": "lunch",
+    "price": 15.5
+  },
+  {
+    "_id": "642c155b2c4774f05c36eebe",
+    "name": "Misti Pulao",
+    "recipe": "Sweet and aromatic rice pilaf with dry fruits and spices.",
+    "image": "https://4.bp.blogspot.com/-qWzc-7lpAXk/WIEb8Z55zmI/AAAAAAAACdE/iewzgRqTP2Q-TdRenIB3zLueuE9rW2nIQCLcB/s1600/vegetable%2Bpulao.JPG",
+    "category": "lunch",
+    "price": 16.5
+  },
+  {
+    "_id": "642c155b2c4774f05c36eec0",
+    "name": "Alur Dom",
+    "recipe": "Spicy baby potatoes cooked in a thick and flavorful curry.",
+    "image": "https://images.aws.nestle.recipes/resized/65d65fdbda7c660074423cf5859e7d30_Aloo_Dum_-_Plating_(tips_cards)_944_531.jpg",
+    "category": "specialty",
+    "price": 10.99
+  },
+  {
+    "_id": "642c155b2c4774f05c36eec1",
+    "name": "Kheer Kodom",
+    "recipe": "Rice dumplings in sweetened milk, a delightful Bengali dessert.",
+    "image": "https://kantis.in/Images/ShoppingPhotos/KheerKadam.jpg",
+    "category": "dessert",
+    "price": 9.5
+  },
+  {
+    "_id": "642c155b2c4774f05c36eec2",
+    "name": "Jhurjhure Aloo Bhaja",
+    "recipe": "Crispy fried potato strips seasoned with special Bengali spices.",
+    "image": "https://assets-global.website-files.com/60d34b8627f6e735cf28df18/6278cda3ca7d266262eaa7e4_Jhuri%20Alu%20Bhaja%20Hero%2016-9.jpg",
+    "category": "appetizer",
+    "price": 8.5
+  },
+  {
+    "_id": "642c155b2c4774f05c36eec3",
+    "name": "Aloo Posto",
+    "recipe": "Potatoes cooked with poppy seeds and green chilies.",
+    "image": "https://www.archanaskitchen.com/images/archanaskitchen/1-Author/Shaheen_Ali/ALOO_POSTO.jpg",
+    "category": "specialty",
+    "price": 9.99
+  },
+  {
+    "_id": "642c155b2c4774f05c36eee3",
+    "name": "Roshogolla Bliss",
+    "recipe": "Soft and spongy cottage cheese balls soaked in sugar syrup, a classic Bengali sweet.",
+    "image": "https://t3.ftcdn.net/jpg/01/16/27/78/360_F_116277891_zEuaQXVFXSQ7zf5XMLV47V1EnIIj6s9w.jpg",
+    "category": "dessert",
+    "price": 8.5
+  },
+  {
+    "_id": "642c155b2c4774f05c36eec8",
+    "name": "Shutki Bharta",
+    "recipe": "Dried fish mashed and mixed with spices, a pungent delicacy.",
+    "image": "https://4.bp.blogspot.com/-Gd_iyRTDZ3k/Vdlvk5tQUAI/AAAAAAAAJa8/phydIm-TgvY/s1600/IMG_8329.JPG",
+    "category": "lunch",
+    "price": 18.5
+  },
+  {
+    "_id": "642c155b2c4774f05c36eeca",
+    "name": "Mutton Dak Bungalow",
+    "recipe": "Mutton curry with rich and spicy flavors, a colonial-era recipe.",
+    "image": "https://img-global.cpcdn.com/recipes/d1be064021b32a7f/680x482cq70/mutton-dak-bungalow-recipe-main-photo.jpg",
+    "category": "lunch",
+    "price": 20.5
+  },
+  {
+    "_id": "642c155b2c4774f05c36eecc",
+    "name": "Bhuna Khichuri",
+    "recipe": "Slow-cooked khichdi with aromatic spices and a hint of ghee.",
+    "image": "https://assets.epicurious.com/photos/640aab48882e5bf74cea370a/1:1/w_2608,h_2608,c_limit/Bhuna%20khichuri-RECIPE.jpg",
+    "category": "lunch",
+    "price": 15.5
+  },
+  {
+    "_id": "642c155b2c4774f05c36eecd",
+    "name": "Shingara",
+    "recipe": "Sweet and savory pastries filled with spiced potatoes and peas.",
+    "image": "https://assets-global.website-files.com/60d34b8627f6e735cf28df18/649bfbacbc993f4748b0c5bb_shingara%20chutney%204-3.jpg",
+    "category": "appetizer",
+    "price": 6.5
+  },
+  {
+    "_id": "642c155b2c4774f05c36eed1",
+    "name": "Chingri Bhorta",
+    "recipe": "Spicy mashed prawns, a flavorful Bengali side dish.",
+    "image": "https://kitchengatherings.com/wp-content/uploads/lai-shak-main.jpg",
+    "category": "lunch",
+    "price": 16.99
+  },
+  {
+    "_id": "642c155b2c4774f05c36eeea",
+    "name": "Chow Mein Noodles",
+    "recipe": "Traditional Chinese Chow Mein noodles with a savory and flavorful broth, topped with vegetables and your choice of protein.",
+    "image": "https://mediavine-res.cloudinary.com/image/upload/s--dFxq-va3--/ar_1:1,c_fill,f_auto,fl_lossy,q_auto/v1693886448/s3ta7myqhgepv3a8dxse.jpg",
+    "category": "popular",
+    "price": 12.99
+  },
+  {
+    "_id": "642c155b2c4774f05c36eeed",
+    "name": "Rice & Vorta",
+    "recipe": "A comforting dish of fluffy rice and Vorta, seasoned to perfection.",
+    "image": "https://img-global.cpcdn.com/recipes/d60b4010e766bac3/751x532cq70/plain-veg-thali-with-plain-rice-plain-tur-tadka-dal-aloo-choka-lal-sag-and-salad-recipe-main-photo.jpg",
+    "category": "favorite",
+    "price": 10.99
+  },
+  {
+    "_id": "642c155b2c4774f05c36eed3",
+    "name": "Kachchi Biryani",
+    "recipe": "Marinated meat and fragrant rice cooked in traditional Bengali style.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Kacchi_Biryani.jpg",
+    "category": "lunch",
+    "price": 21.99
+  },
+  {
+    "_id": "642c155b2c4774f05c36eed4",
+    "name": "Jhal Muri",
+    "recipe": "Spicy puffed rice mixed with peanuts, mustard oil, and spices.",
+    "image": "https://images.squarespace-cdn.com/content/v1/5ea5f3913b0ccf06d0ec2563/1593445703591-2AMVIBZGZE6K7VE2L2KQ/Jhal+Muri+%286%29.jpg",
+    "category": "appetizer",
+    "price": 5.5
+  },
+  {
+    "_id": "642c155b2c4774f05c36eee5",
+    "name": "Tom Yum Soup",
+    "recipe": "Spicy and sour Thai soup with shrimp, mushrooms, lemongrass, and lime leaves.",
+    "image": "https://dishingouthealth.com/wp-content/uploads/2020/09/ThaiPumpkinSoup_Square.jpg",
+    "category": "popular",
+    "price": 10.99
+  },
+  {
+    "_id": "642c155b2c4774f05c36eee6",
+    "name": "Rosmalai",
+    "recipe": "Bengali dessert made with cottage cheese soaked in sweetened milk, garnished with pistachios.",
+    "image": "https://images.squarespace-cdn.com/content/v1/5ea5f3913b0ccf06d0ec2563/1626045884228-IZC62MG0ZF96H141WWZF/TSO_Roshmalai+%2820%29.jpg",
+    "category": "popular",
+    "price": 8.5
+  },
+  {
+    "_id": "642c155b2c4774f05c36eee7",
+    "name": "Chicken over Rice",
+    "recipe": "Grilled chicken served over aromatic basmati rice with flavorful spices.",
+    "image": "https://www.lecremedelacrumb.com/wp-content/uploads/2021/03/one-pot-lemon-herb-chicken-rice-6sm-4.jpg",
+    "category": "popular",
+    "price": 15.99
+  },
+  {
+    "_id": "642c155b2c4774f05c36eeec",
+    "name": "Chicken Pizza",
+    "recipe": "A mouthwatering pizza with succulent chicken, a medley of vegetables, and a savory tomato sauce.",
+    "image": "https://joyfoodsunshine.com/wp-content/uploads/2022/11/BBQ-chicken-pizza-recipe-8.jpg",
+    "category": "favorite",
+    "price": 14.99
+  },
+  {
+    "_id": "642c155b2c4774f05c36eee9",
+    "name": "Chicken Pieces Roast",
+    "recipe": "Tender chicken pieces marinated and roasted to perfection with aromatic spices.",
+    "image": "https://thelemonbowl.com/wp-content/uploads/2021/07/image-of-roasted-chicken.jpg",
+    "category": "popular",
+    "price": 18.5
+  },
+  {
+    "_id": "642c155b2c4774f05c36eed6",
+    "name": "Macher Jhol",
+    "recipe": "Traditional Bengali fish curry with a flavorful broth.",
+    "image": "https://assets.epicurious.com/photos/5acb86a7265d7e23b7b9f9f6/16:9/w_6560,h_3690,c_limit/Mindy's-Roast-Chicken-recipe-04042018.jpg",
+    "category": "lunch",
+    "price": 18.99
+  },
+  {
+    "_id": "642c155b2c4774f05c36eeda",
+    "name": "Beef Biryani",
+    "recipe": "Spicy beef curry layered with fragrant biryani rice.",
+    "image": "https://t3.ftcdn.net/jpg/04/46/63/78/360_F_446637826_OGIDvkAi5l6Gyox2PaMjMGSdBwJryB6V.jpg",
+    "category": "lunch",
+    "price": 24.99
+  },
+  {
+    "_id": "642c155b2c4774f05c36eedb",
+    "name": "Mango Chutney",
+    "recipe": "Sweet and tangy mango chutney, a perfect accompaniment to Bengali dishes.",
+    "image": "https://silkroadrecipes.com/wp-content/uploads/2023/02/Mango-Chutney-Recipe-square.jpg",
+    "category": "favorite",
+    "price": 6.5
+  },
+  {
+    "_id": "642c155b2c4774f05c36eeeb",
+    "name": "Chestnut Salad",
+    "recipe": "A delightful salad featuring fresh chestnuts, mixed greens, and a zesty vinaigrette dressing.",
+    "image": "https://assets.bonappetit.com/photos/57b15ed9f1c801a1038bddd4/master/pass/warm-chestnut-and-apple-salad.jpg",
+    "category": "favorite",
+    "price": 9.99
+  },
+  {
+    "_id": "642c155b2c4774f05c36eedf",
+    "name": "Chicken Roast",
+    "recipe": "Chicken curry with poppy seed paste, a delightful Bengali preparation.",
+    "image": "https://www.jocooks.com/wp-content/uploads/2021/11/roast-chicken-1-22.jpg",
+    "category": "lunch",
+    "price": 17.99
+  },
+  {
+    "_id": "642c155b2c4774f05c36eeed",
+    "name": "Masala Chai",
+    "recipe": "A flavorful and aromatic spiced tea, perfect for a morning pick-me-up.",
+    "image": "https://static.toiimg.com/thumb/msid-69027241,width-1280,height-720,resizemode-4/69027241.jpg",
+    "category": "breakfast",
+    "price": 2.5
+  },
+  {
+    "_id": "642c155b2c4774f05c36eee0",
+    "name": "Flaky Paratha Porota",
+    "recipe": "Layered and flaky paratha porota, a delightful breakfast option.",
+    "image": "https://paattiskitchen.com/wp-content/uploads/2022/12/kmc_20221227_200339-1024x576.jpg",
+    "category": "breakfast",
+    "price": 4.5
+  },
+  {
+    "_id": "642c155b2c4774f05c36eee1",
+    "name": "Spicy Egg Toast",
+    "recipe": "A mouthwatering toast topped with spicy scrambled eggs, perfect for breakfast.",
+    "image": "https://www.unicornsinthekitchen.com/wp-content/uploads/2016/06/Sweet-and-Spicy-Breakfast-Toast-2-600px.jpg",
+    "category": "breakfast",
+    "price": 5.99
+  },
+  {
+    "_id": "642c155b2c4774f05c36eee2",
+    "name": "Pancake Delight",
+    "recipe": "Fluffy pancakes served with a drizzle of honey and fresh berries.",
+    "image": "https://img.freepik.com/premium-photo/topview-pancake-delight-kitchen-table_1056850-5302.jpg",
+    "category": "breakfast",
+    "price": 6.99
+  },
+  {
+    "_id": "642c155b2c4774f05c36eee4",
+    "name": "Spiced Borhani",
+    "recipe": "Spiced and fragrant beef broth, a traditional Bangladeshi drink.",
+    "image": "https://1.bp.blogspot.com/-kOj4sQ-FxNU/V7xu4nVQ3mI/AAAAAAAABXE/SfmxTI5GqFI66_VB3P8gvPFs54GCcLZhACLcB/s1600/DSC03406.JPG",
+    "category": "beverage",
+    "price": 5.5
+  },
+  {
+    "_id": "642c155b2c4774f05c36eee5",
+    "name": "Mango Delight Drink",
+    "recipe": "Refreshing mango drink with a hint of spice and sweetness.",
+    "image": "https://britneybreaksbread.com/wp-content/uploads/2020/08/mango-tango-drink-2.jpg",
+    "category": "beverage",
+    "price": 4.99
+  },
+  {
+    "_id": "642c155b2c4774f05c36eee6",
+    "name": "Zesty Lemon Juice",
+    "recipe": "Freshly squeezed lemon juice with a zing of citrus goodness.",
+    "image": "https://img.freepik.com/premium-photo/front-view-fresh-cool-cocktail-with-lemon-ice-light-background-drink-color-juice-bar-water-lemonade-cold-ice_461922-26749.jpg",
+    "category": "beverage",
+    "price": 3.5
+  }
+]
