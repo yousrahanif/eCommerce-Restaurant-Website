@@ -28,7 +28,7 @@ console.log(loggedUser)
               // console.log('user profile info updated')
               const savedUser = {name: data.name, email: data.email}
 
-              fetch('http://localhost:5000/users',{
+              fetch('https://restaurant-server-kappa.vercel.app/users',{
                
                 method: 'POST', 
                 headers:{

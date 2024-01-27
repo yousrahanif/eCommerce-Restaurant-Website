@@ -4,7 +4,7 @@ import axios from "axios";
 import { useNavigate } from "react-router-dom";
 
 const axiosSecure = axios.create({
-  baseURL: 'http://localhost:5000', 
+  baseURL: 'https://restaurant-server-kappa.vercel.app', 
 });
 const useAxiosSecure = () => {
     const { logOut } = useContext(AuthContext) 

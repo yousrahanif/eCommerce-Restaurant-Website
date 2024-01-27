@@ -17,7 +17,7 @@ const SocialLogin = () => {
            
         const savedUser = {name: loggedInUser.displayName, email: loggedInUser.email}
 
-              fetch('http://localhost:5000/users',{
+              fetch('https://restaurant-server-kappa.vercel.app/users',{
                
                 method: 'POST', 
                 headers:{
