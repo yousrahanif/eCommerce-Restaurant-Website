@@ -12,11 +12,18 @@ import slide3 from '../../../assets/home/s3.jpg'
 import slide4 from '../../../assets/home/s4.jpg'
 import slide5 from '../../../assets/home/s5.jpg'
 import SectionTitle from '../../../components/SectionTitle/SectionTitle';
+import Marquee from 'react-fast-marquee';
 const Category = () => {
     return (
         <section>
+          
           <SectionTitle
-      subHeading={"24 hours, from 00:00 to 23:59"}
+      subHeading={
+        <Marquee>
+            Always open, always ready 24/7!&nbsp;
+        </Marquee>
+    }
+     
           heading={"Order Online"}
 
           ></SectionTitle>
@@ -46,23 +53,23 @@ const Category = () => {
             
           <SwiperSlide>
             <img src={slide1} alt="" />
-            <h3 className='text-4xl uppercase text-center mt-10 text-white'>Beef</h3>
+            <h3 className='text-4xl uppercase text-center mt-10 text-red-800'>Beef</h3>
           </SwiperSlide>
           <SwiperSlide>
           <img src={slide2} alt=""  />
-          <h3 className='text-4xl uppercase text-center mt-10 text-white'>Burger</h3>
+          <h3 className='text-4xl uppercase text-center mt-10  text-red-800'>Burger</h3>
             </SwiperSlide>
           <SwiperSlide>
           <img src={slide3} alt="" />
-          <h3 className='text-4xl uppercase text-center mt-10 text-white'>Cake</h3>
+          <h3 className='text-4xl uppercase text-center mt-10  text-red-800'>Cake</h3>
             </SwiperSlide>
           <SwiperSlide>
           <img src={slide5} alt="" />
-          <h3 className='text-4xl uppercase text-center mt-10 text-white'>Rice</h3>
+          <h3 className='text-4xl uppercase text-center mt-10  text-red-800'>Rice</h3>
             </SwiperSlide>
           <SwiperSlide>
             <img src={slide4} alt="" />
-            <h3 className='text-4xl uppercase text-center mt-10 text-white'>CHicken</h3>
+            <h3 className='text-4xl uppercase text-center mt-10  text-red-800'>CHicken</h3>
             </SwiperSlide>
          
         </Swiper>
