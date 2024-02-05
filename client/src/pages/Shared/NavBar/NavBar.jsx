@@ -25,12 +25,12 @@ const NavBar = () => {
     
     const navOptions =<>
     
-    <li><Link to="/">Home</Link></li>
-    <li><Link to="/menu">Menu</Link></li>
-    <li><Link to="/about">About Us</Link></li>
-    <li><Link to="/order/appetizer">Order</Link></li>
-    <li>
-<Link to="/dashboard/mycart">
+    <li className="bg-black text-white"><Link to="/">Home</Link></li>
+    <li className="bg-black text-white"><Link to="/menu">Menu</Link></li>
+    <li className="bg-black text-white"><Link to="/about">About Us</Link></li>
+    <li className="bg-black text-white"><Link to="/order/appetizer">Order</Link></li>
+    <li className="bg-black text-white">
+<Link  to="/dashboard/mycart">
 
 {/* <button className="btn"> */}
 {/* <FaCartPlus /> */}
@@ -41,16 +41,16 @@ const NavBar = () => {
 
   </li>
     {
-      isAdmin ? <li><Link to="/dashboard/adminhome">Dashboard</Link></li> : <li><Link to="/dashboard/userhome">Dashboard</Link></li>
+      isAdmin ? <li className="bg-black text-white"><Link to="/dashboard/adminhome">Dashboard</Link></li> : <li><Link to="/dashboard/userhome">Dashboard</Link></li>
     }
  
       
       {user ? <> 
       {/* <span>{user?.displayName}</span> */}
       
-        <li onClick={handleLogOut}><Link >LogOut</Link></li>
+        <li className="bg-black text-white" onClick={handleLogOut}><Link >LogOut</Link></li>
       </>: 
-        <li><Link to="/login">Login</Link></li>
+        <li className="bg-black text-white"><Link to="/login">Login</Link></li>
       }
     </>
     return (
